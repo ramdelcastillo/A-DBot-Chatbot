@@ -10,7 +10,7 @@ Submission Date: August 6, 2025
 
 ##
 
-<p align="center"><strong>Chatbot Strengths</strong></p>
+<p align="center"><b>Chatbot Strengths</b></p>
 <p align="center" style="margin: 10px 0;">
   <img src="https://github.com/user-attachments/assets/fb71f4d5-c829-4641-802e-27077dd6fa4b" alt="Inferred Grandfather Relationship" />
   <br>
@@ -70,7 +70,7 @@ Submission Date: August 6, 2025
   <br>
   <em>Figure 10. Proper handling for invalid prompts</em>
 </p><br>
-<p align="center"><strong>Chatbot Weaknesses</strong></p>
+<p align="center"><b>Chatbot Weaknesses</b></p>
 <p align="center" style="margin: 10px 0;">
   <img src="https://github.com/user-attachments/assets/214e18c1-7458-4982-b14d-205d756c2412" alt="Requires gender for children of or child of" />
   <br>
