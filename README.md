@@ -2,10 +2,10 @@
 <p align="justify">
 This project introduces a logic-based chatbot that processes and responds to family relationship queries using a Prolog inference engine. The chatbot operates through a command-line interface, accepting declarative statements and relational questions. To simplify the Python implementation, core familial relationships and gender roles are encoded in Prolog, while more complex inference logic and validation are handled in Python through multiple targeted Prolog queries. The chatbot does not infer gender and requires it to be explicitly declared in most cases. It accepts consistent facts, rejects contradictory inputs, and ensures logical consistency in its responses. Special cases such as incestuous relationships handling are excluded to reduce complexity and maintain focus on the defined scope of interaction.<br>
 </p>
-Created by:<br> Alyanna Lim <br>
-Brianna Salvador<br>
-Carl Vincent Ko <br>
-Del Castillo, Jose Mari<br><br>
+Created by:<br> <b>A</b>lyanna Lim <br>
+<b>B</b>rianna Salvador<br>
+<b>C</b>arl Vincent Ko <br>
+<b>D</b>el Castillo, Jose Mari<br><br>
 Submission Date: August 6, 2025
 
 ##
