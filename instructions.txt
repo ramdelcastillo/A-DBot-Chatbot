@@ -1,0 +1,2 @@
+Instructions:
+Just click on the ADBot.exe file and make sure familyRelationships_KB.pl is in the same folder as the exe file.
